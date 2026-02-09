@@ -1,0 +1,23 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large data files
+*.csv
+*.xlsx
+*.zip
+*.gz
+
+# Operating system files
+.DS_Store
+Thumbs.db
